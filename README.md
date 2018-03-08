@@ -7,7 +7,8 @@ We are very pleased to present to you the latest update to the CloakCoin core so
  
 Version 2.1.0.0 'EVOLUTION' codename brings big changes to the Enigma layer, based on and following the Cognosec audit/review, bug fixes and some general improvements. Full details will be added soon. Also, GUI got some small changes.
 
-Linux wallet will be released shortly.
+**Linux Wallet** (Ubuntu build)<br />
+[Download](https://github.com/CloakProject/2.1.0.0-Wallets/blob/master/CloakCoin_Qt_Ubuntu_x64_v2.1.0.0.evolution.zip)
 
 **Windows Wallet**<br />
 [Download](https://github.com/CloakProject/2.1.0.0-Wallets/raw/master/CloakCoin_Qt_win_x86_v2.1.0.0.evolution.zip)
